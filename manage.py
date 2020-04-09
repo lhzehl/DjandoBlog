@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+"""
+ for create new app in (venv) ---> python manage.py startapp blog
+"""
 import os
 import sys
 
