@@ -2,6 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 """
  for create new app in (venv) ---> python manage.py startapp blog
+ for migrate db     in venv ---> python manage.py makemigrations --->python manage.py migrate
 """
 import os
 import sys
